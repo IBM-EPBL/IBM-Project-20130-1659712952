@@ -3,7 +3,7 @@
 import brain
 
 myLocation = "Chennai,IN"
-APIKEY = "9cd610e5fd400c74212074c7ace0d62c"
+APIKEY = "c76d51c15c0e7c6c5f2002ad65efcec1"
 
 localityInfo = {
     "schools" : {
